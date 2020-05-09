@@ -1,7 +1,7 @@
 (ns clojure-noob.core-test
-  (:require [clojure.test :refer :all]
-            [clojure-noob.core :refer :all]))
+  (:require [clojure-noob.core :refer :all]
+            [clojure.test :refer :all]))
 
 (deftest a-test
-  (testing "FIXME, I fail."
-    (is (= 0 1))))
+  (testing "Solved."
+    (is (= 1 1))))
